@@ -28,7 +28,7 @@ When prompted, enter your move by choosing a number from 1 to 9, corresponding t
 The computer will automatically make a move after each of your turns.
 The game ends when one of the players wins or when there are no more possible moves, resulting in a tie.
 
-Requirements
+# Requirements
 Python 3.x
 
 # Execution
